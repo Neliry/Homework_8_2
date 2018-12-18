@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+MERGED from [com.android.databinding:adapters:3.2.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\adapters-3.2.0.aar\0ef0ad54f89eac95634c62f428ae460e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\library-3.2.0.aar\f7c0662bfdc2d93e8db58a909724d6db\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\aa7fbee07b7e5e4197c8e00b98f2b3e8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\2009859bd1f87b5eaf32ae7a272561ae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f0750361fa2e33ea4c9326c337773f7b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\a6cefa715dd4bd7d3d3fb49701b396a9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha9.aar\86635791629af769387dffa0b88c0f68\AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\9c081319ab481b80a54a60633532d617\AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\317f9be36e4571a55fc36f0ffeaa09b7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fe9711e875fa5e0b6482a0bca9e9f1d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\36859fbf80c3cc616fe7ec4fa5c0dd7a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\50edf772126a34d756e5b21637bbd350\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac7c0d851778ac9335443079f13b2f84\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f36005655d842f486d5dc86a571aedb1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d7ce2cbbbf0c29984b1ffc91740b719e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\639ecbd59349d79983f7be8d95e8bcee\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\f99e3e82079377cae82959a9cfe537f9\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-db-impl-1.0.0-alpha9.aar\860d3f8059c463550e02c72a2869af83\AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-db-1.0.0-alpha9.aar\30fd806ba59e270393ed3a666b6e2de5\AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha9.aar\54240435a22d85427dabc516fbbd56f1\AndroidManifest.xml:17:1-26:12
+INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+	package
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:19:5-43
+		INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+		INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+		INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:18:5-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:22:22-64
+application
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:24:5-69:19
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\aa7fbee07b7e5e4197c8e00b98f2b3e8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\aa7fbee07b7e5e4197c8e00b98f2b3e8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\2009859bd1f87b5eaf32ae7a272561ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\2009859bd1f87b5eaf32ae7a272561ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f0750361fa2e33ea4c9326c337773f7b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f0750361fa2e33ea4c9326c337773f7b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\a6cefa715dd4bd7d3d3fb49701b396a9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\a6cefa715dd4bd7d3d3fb49701b396a9\AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:26:5-40:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\9c081319ab481b80a54a60633532d617\AndroidManifest.xml:26:5-32:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\9c081319ab481b80a54a60633532d617\AndroidManifest.xml:26:5-32:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\317f9be36e4571a55fc36f0ffeaa09b7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\317f9be36e4571a55fc36f0ffeaa09b7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fe9711e875fa5e0b6482a0bca9e9f1d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fe9711e875fa5e0b6482a0bca9e9f1d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\36859fbf80c3cc616fe7ec4fa5c0dd7a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\36859fbf80c3cc616fe7ec4fa5c0dd7a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\50edf772126a34d756e5b21637bbd350\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\50edf772126a34d756e5b21637bbd350\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac7c0d851778ac9335443079f13b2f84\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac7c0d851778ac9335443079f13b2f84\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f36005655d842f486d5dc86a571aedb1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f36005655d842f486d5dc86a571aedb1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d7ce2cbbbf0c29984b1ffc91740b719e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d7ce2cbbbf0c29984b1ffc91740b719e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\639ecbd59349d79983f7be8d95e8bcee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\639ecbd59349d79983f7be8d95e8bcee\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:29:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:33:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:44:9-52:20
+	android:parentActivityName
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:47:13-63
+	android:label
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:46:13-58
+	android:theme
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:45:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:49:13-51:56
+	android:value
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:51:17-54
+	android:name
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:50:17-63
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:56:9-58:40
+	android:exported
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:57:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:61:9-67:19
+	android:exported
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:62:13-68
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:64:13-66:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:65:17-83
+	android:name
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:65:25-81
+uses-sdk
+INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.2.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\adapters-3.2.0.aar\0ef0ad54f89eac95634c62f428ae460e\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\adapters-3.2.0.aar\0ef0ad54f89eac95634c62f428ae460e\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\library-3.2.0.aar\f7c0662bfdc2d93e8db58a909724d6db\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\library-3.2.0.aar\f7c0662bfdc2d93e8db58a909724d6db\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\aa7fbee07b7e5e4197c8e00b98f2b3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\aa7fbee07b7e5e4197c8e00b98f2b3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\2009859bd1f87b5eaf32ae7a272561ae\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\2009859bd1f87b5eaf32ae7a272561ae\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f0750361fa2e33ea4c9326c337773f7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f0750361fa2e33ea4c9326c337773f7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\a6cefa715dd4bd7d3d3fb49701b396a9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\a6cefa715dd4bd7d3d3fb49701b396a9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha9.aar\86635791629af769387dffa0b88c0f68\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha9.aar\86635791629af769387dffa0b88c0f68\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\9c081319ab481b80a54a60633532d617\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\9c081319ab481b80a54a60633532d617\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\317f9be36e4571a55fc36f0ffeaa09b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\317f9be36e4571a55fc36f0ffeaa09b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fe9711e875fa5e0b6482a0bca9e9f1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fe9711e875fa5e0b6482a0bca9e9f1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\36859fbf80c3cc616fe7ec4fa5c0dd7a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\36859fbf80c3cc616fe7ec4fa5c0dd7a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\50edf772126a34d756e5b21637bbd350\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\50edf772126a34d756e5b21637bbd350\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac7c0d851778ac9335443079f13b2f84\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac7c0d851778ac9335443079f13b2f84\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f36005655d842f486d5dc86a571aedb1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f36005655d842f486d5dc86a571aedb1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d7ce2cbbbf0c29984b1ffc91740b719e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d7ce2cbbbf0c29984b1ffc91740b719e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\639ecbd59349d79983f7be8d95e8bcee\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\639ecbd59349d79983f7be8d95e8bcee\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\f99e3e82079377cae82959a9cfe537f9\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\f99e3e82079377cae82959a9cfe537f9\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-db-impl-1.0.0-alpha9.aar\860d3f8059c463550e02c72a2869af83\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-db-impl-1.0.0-alpha9.aar\860d3f8059c463550e02c72a2869af83\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-db-1.0.0-alpha9.aar\30fd806ba59e270393ed3a666b6e2de5\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-db-1.0.0-alpha9.aar\30fd806ba59e270393ed3a666b6e2de5\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha9.aar\54240435a22d85427dabc516fbbd56f1\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha9.aar\54240435a22d85427dabc516fbbd56f1\AndroidManifest.xml:22:5-24:41
+INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\2009859bd1f87b5eaf32ae7a272561ae\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mariy\AndroidStudioProjects\Homework_8_2\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\aa7fbee07b7e5e4197c8e00b98f2b3e8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\2009859bd1f87b5eaf32ae7a272561ae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\2009859bd1f87b5eaf32ae7a272561ae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f0750361fa2e33ea4c9326c337773f7b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f0750361fa2e33ea4c9326c337773f7b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\317f9be36e4571a55fc36f0ffeaa09b7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\317f9be36e4571a55fc36f0ffeaa09b7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fe9711e875fa5e0b6482a0bca9e9f1d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fe9711e875fa5e0b6482a0bca9e9f1d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\36859fbf80c3cc616fe7ec4fa5c0dd7a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\36859fbf80c3cc616fe7ec4fa5c0dd7a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\50edf772126a34d756e5b21637bbd350\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\50edf772126a34d756e5b21637bbd350\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac7c0d851778ac9335443079f13b2f84\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac7c0d851778ac9335443079f13b2f84\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f36005655d842f486d5dc86a571aedb1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f36005655d842f486d5dc86a571aedb1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d7ce2cbbbf0c29984b1ffc91740b719e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d7ce2cbbbf0c29984b1ffc91740b719e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\639ecbd59349d79983f7be8d95e8bcee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\639ecbd59349d79983f7be8d95e8bcee\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:preference-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\aa7fbee07b7e5e4197c8e00b98f2b3e8\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:preference-v7:26.1.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\aa7fbee07b7e5e4197c8e00b98f2b3e8\AndroidManifest.xml:24:13-51
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\b7d0262c8f190469b10ddd13eaffa56a\AndroidManifest.xml:37:25-84
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\9c081319ab481b80a54a60633532d617\AndroidManifest.xml:27:9-31:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\9c081319ab481b80a54a60633532d617\AndroidManifest.xml:29:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\9c081319ab481b80a54a60633532d617\AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\9c081319ab481b80a54a60633532d617\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\mariy\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\9c081319ab481b80a54a60633532d617\AndroidManifest.xml:28:13-81
